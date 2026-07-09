@@ -10,3 +10,11 @@ Scripts do Docker Compose para subida de um ambiente do OpenBao, um projeto open
 Interface do OpenBao: **http://localhost:1337/ui/vault/auth?with=token**
 
 ![OpenBao UI](img/ui-01.png)
+
+Testes no Visual Studio Code com a extensão REST Client:
+
+![Testes no VS Code](img/tests-01.png)
+
+Visualizando Secrets a partir da interface do OpenBao:
+
+![Visualizando Secrets - OpenBao UI](img/ui-02.png)
